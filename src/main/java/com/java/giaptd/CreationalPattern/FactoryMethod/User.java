@@ -1,4 +1,4 @@
-package com.se1858.group4.CreationalPattern.FactoryMethod;
+package com.java.giaptd.CreationalPattern.FactoryMethod;
 
 import java.util.Scanner;
 

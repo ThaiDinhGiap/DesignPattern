@@ -1,4 +1,4 @@
-package com.se1858.group4.CreationalPattern.Singleton;
+package com.java.giaptd.CreationalPattern.Singleton;
 
 public class LogManager {
     private LogManager() {}
