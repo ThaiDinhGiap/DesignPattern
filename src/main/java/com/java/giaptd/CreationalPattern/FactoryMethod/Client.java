@@ -2,7 +2,7 @@ package com.java.giaptd.CreationalPattern.FactoryMethod;
 
 import java.util.Scanner;
 
-public class User {
+public class Client {
     public static void main(String[] args) {
         CharacterType option = chooseCharacterType();
 
